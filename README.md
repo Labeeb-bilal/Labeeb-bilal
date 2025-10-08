@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Labeeb  
+# 👋 Hi, I'm Labeeb Bilal
 
 ### 🚀 Full Stack Developer | MERN & TypeScript  
 
 ---
 
 ### 💻 About Me  
-Full Stack Developer specializing in **MERN Stack & TypeScript**.  
 Experienced in **REST APIs, scalable architectures, caching, Docker, and cloud deployments**.  
 Focused on **code efficiency, system performance, and modern development practices**.  
 
@@ -35,7 +34,7 @@ Docker | Git | GitHub | Postman | VS Code | Cloud Deployments (AWS, Render, Verc
 ---
 
 ### 📫 Connect With Me  
-💼 https://www.linkedin.com/in/labeeb-bilal/ 
+💼 https://www.linkedin.com/in/labeeb-bilal/ <br/>
 📧 labeeb@example.com  
 
 ---
