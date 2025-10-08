@@ -35,7 +35,7 @@ Docker | Git | GitHub | Postman | VS Code | Cloud Deployments (AWS, Render, Verc
 
 ### 📫 Connect With Me  
 💼 https://www.linkedin.com/in/labeeb-bilal/ <br/>
-📧 labeeb@example.com  
+📧 labeebbilal0@gmail.com 
 
 ---
 
