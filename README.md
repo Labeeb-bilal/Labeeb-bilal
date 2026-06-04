@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Labeeb Bilal
 
-### 🚀 Full Stack Developer | MERN & TypeScript  
+### 🚀 Full Stack Engineer | MERN & TypeScript  
 
 ---
 
